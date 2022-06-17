@@ -4,4 +4,4 @@ I am learning about reverse engineering and malware analysis, and right now, i'm
 # Samples
 Here you can find a list of the Yara rules present in this repo :
 
-* [https://github.com/ALittlePatate/Yara-rules/tree/main/Quasar](Quasar rat)
+* [Quasar rat](https://github.com/ALittlePatate/Yara-rules/tree/main/Quasar)
